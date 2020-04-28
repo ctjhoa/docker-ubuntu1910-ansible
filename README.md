@@ -1,5 +1,7 @@
 # Ubuntu 19.10 (Eoan) Ansible Test Image
 
+[![Build Status](https://travis-ci.org/ctjhoa/docker-ubuntu1910-ansible.svg?branch=master)](https://travis-ci.com/ctjhoa/docker-ubuntu1910-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/ctjhoa/docker-ubuntu1910-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/ctjhoa/docker-ubuntu1910-ansible/)
+
 Ubuntu 19.10 (Eoan) Docker container for Ansible playbook and role testing.
 It comes with an `ansible` user with sudo privileged.
 
